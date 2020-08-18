@@ -1,16 +1,32 @@
-# avenue_task
+# High Avenue Task for Flutter Developer Internship
 
-Flutter application for the Internship task of High Avenue
+High Avenue task number 2 attempted **using BLoC pattern.**
 
-## Getting Started
+**You can download APK from** [**here**](https://drive.google.com/file/d/1cNkYM_ZCLNBuraMJGXekKbhlpdtvtuzc/view?usp=sharing).
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+**API used**: Pexels Developer API
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Features
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Fetches trending pitures and  from Pexels REST API.
+* User can also Search for the desired Pictures.
+* Also shows Photographer's name.
+
+# Screenshots
+
+<p align="center">
+<img src="https://github.com/GMGOG/Credicxo-optional-task/blob/master/screenshots/trending.jpg" alt="details" height = "600" >
+<img src="https://github.com/GMGOG/Credicxo-optional-task/blob/master/screenshots/details.jpg" alt="details" height = "600" >
+<img src="https://github.com/GMGOG/Credicxo-optional-task/blob/master/screenshots/bookmarks.jpg" alt="details" height = "600" >
+<img src="https://github.com/GMGOG/Credicxo-optional-task/blob/master/screenshots/no_internet.jpg" alt="details" height = "600" >
+</p>
+
+# Applicant Bio
+**Name**: Geetansh Monga
+
+**Applied on**: Internshala
+
+**Task Recived on**: Gmail
+
+**Location**: Delhi
